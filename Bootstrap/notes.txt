@@ -1,0 +1,16 @@
+bootstrap:
+framework use for responsive web page
+-----------
+framework means already written classes
+------------
+2 type of container
+------------
+1)container fuild
+2)container'
+========================
+bootstrap grid system:
+it has 12 colum,
+each row can have maximum of 12 colums
+====================================
+classes
+text 
