@@ -1,0 +1,123 @@
+html:
+basic structure of html code
+<html>
+    <head>
+      section 1
+      (it has additional information to the web)
+      title 
+      meta
+      external css
+    <head>
+    <body>
+       section 2
+       (what ever we write inside body it will display  in the browser)
+    </body>
+<html>
+note :clt + 1 get structure
+==========================================================================
+Tag:
+-----------
+    which is opening and closing
+    eg.
+       <h1></h1>
+       <body></body>
+       <p></p>
+    Type of tags:
+    ---------
+      1)paired tag -------> <h1></h1>
+      2) unpaired tag  -----><hr>
+      3)self closing tags -----><img src""/>
+element:
+------------
+       <h1>This is H1</h1>
+       which has opening and closing and in between it has content.
+    type of element:
+    ----------------
+       1)inline element --->it will take required width
+         if there is a space it will start with same line.
+         eg:
+         -------
+         img,a,span
+       2)block element----->it will start with new line 
+        and takke the complete width.
+        eg:
+        ----------
+        h1,h2,p,div
+
+
+attributes:
+----------
+which provides additional behaviour to the web page.
+<img src"">
+<a href="">
+<html lang="en">
+<h1 style="">
+================
+Anchortag :
+---------
+<a href="http://google.com">
+a --> tag
+href --->attributes
+by using Anchore tag ,it can navigate from one page to another page
+_self -->open in same page
+_blank -->open in different page
+============================================
+img tag:
+--------
+<img src="" alt="">
+==============
+htmllist:
+----------------
+group of elementvin the sequence 
+
+3 types:
+1)ordered list ---ol
+2)unordered list ---ul
+3)description list --dl
+===================================================
+table tag:
+------------
+display the content in rows and colum
+<table>
+ <tr> table row
+ <td>data
+ <th>table heading
+--------------
+rowspan
+columspan
+border
+===================================================
+html forms;
+-------
+it is used to take user input.
+<form action=""method="get /post (how the data should go)">
+//different input type
+   
+
+</form>
+get-->data goes through url
+post-->data goes through body
+
+different input type:
+------------------
+text 
+password
+check box
+file
+email
+color
+=============================
+html tags
+----------
+sematic tags:
+----------
+ provides meaning to us
+ it is easy for browser and developer to understand 
+===========================================
+div:
+-------------
+spam:
+--------
+
+
+
