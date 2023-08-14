@@ -1,0 +1,42 @@
+CSS:
+----------
+cascading style sheet
+we can use css to design the html page.....
+syntax :
+selector : declaration
+h1       :{color:red; font-size:20px}
+p       :{color:red; font-size:20px}
+
+
+
+How to add css into html document
+---------------
+3 ways to add:
+1)inline  -->style is applied to particular elment 
+2)internal -->inside the head tag
+3)external  --> outside the head tag
+==================================
+css selector:
+----------
+1)elment selector
+2.group
+3.class  . dot indicate 
+4.id     (#) hash indicate it is id class
+5.universal
+6.attribute
+7.pseudo
+8.combination
+            4 type:
+            descendent
+            >div p{
+                
+            }
+            >div 
+
+=======================
+how add css into html docmunent
+css style properties
+----------------------
+media query:
+
+==============
