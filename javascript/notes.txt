@@ -1,0 +1,53 @@
+javascript:
+why we use javascript
+to design interactive web page
+to design  dyanmic web page
+
+java foundaded:1991
+javascript runs in browser 
+       browser vendor are different .
+ECDMScript is javascript specification ,so that it can run in different browser.
+ESS
+Es6
+=======================================
+html-->only tags
+css-->only style property,color,box model
+javascript-->It has programming concept(varible,loops,condition)
+=============================
+variable in javascript:
+-----------------------
+  to declare variable in javascript
+  use var keyword
+====================
+function in javascript:
+---------
+block of code,define function, then we call
+function keyword is used to declare the function
+function
+==================
+operators
+preincrement ++a -------first increment then assign
+postincrement  a++ ------------first assign then assig
+==============
+closure 
+  eg.
+   <script>
+        function test1(a)
+        {
+            function test2(b)
+        {
+            
+            console.log(a);
+            console.log(b);
+            return a+b;
+            }
+            return test2;
+        }
+        
+
+        let innerfunction = test1(3)
+        console.log(innerfunction(6))
+
+    </script>
+    =====================================
+assignment :
